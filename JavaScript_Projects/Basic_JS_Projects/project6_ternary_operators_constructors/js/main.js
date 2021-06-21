@@ -12,7 +12,7 @@ function Drive_Function() {               //Checks if entered value meets requir
 function Vote_Function() {               //Checks if entered value meets requirements
     var age, can_vote;
     age = document.getElementById("Age_Vote").value;
-    can_drive = (age < 18) ? "You are not old enough":"You are old enough";
+    can_vote = (age < 18) ? "You are not old enough":"You are old enough";
     document.getElementById("Vote").innerHTML = can_vote + " to vote.";
 }
 
