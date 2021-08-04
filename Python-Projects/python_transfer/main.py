@@ -7,7 +7,7 @@
 #
 import shutil
 import os
-import time
+import datetime
 import tkinter
 from tkinter import *
 
@@ -39,7 +39,7 @@ class ParentWindow(Frame):
         self.txtDestination = Entry(self.master, text=self.varDestination, font=('Arial', 14))
         self.txtDestination.grid(row=1, column=1, padx=(30,0), pady=(30,0))
 
-        self.btnSubmit = Button(self.master, text='Transfer', width=12, height=2, command=self.last_mod_time)
+        self.btnSubmit = Button(self.master, text='Transfer', width=12, height=2, command=lambda:self.last_mod_time(self))
         self.btnSubmit.grid(row=2, column=1, padx=(0,20), pady=(30,0), sticky=NE)
 
         self.btnCancel = Button(self.master, text='Cancel', width=12, height=2, command=self.cancel)
@@ -49,17 +49,20 @@ class ParentWindow(Frame):
 
     # Checks to make sure files were recently modified   
     def last_mod_time(fname,self):
-        now = time.time()
-        before = now - 86400
-        src = self.varSource.get()
-        dst = self.varDestination.get()
-        return os.path.getmtime(fname)
-
+        # Gets user entered file paths
+        src = self.txtSource.get()
+        dst = self.txtDestination.get()
+        # Gets file timestamps
         for fname in os.listdir(src):
             src_fname = os.path.join(src, fname)
-            if last_mod_time(src_fname) <= before:
-                dst_fname = os.path.join(dst, fname)
-                shutil.move(src_fname, dst_fname)
+            mtime = os.path.getmtime(src_fname)
+            mod_time = datetime.datetime.fromtimestamp(mtime)
+            now_time = datetime.datetime.now()
+            before = now_time - datetime.timedelta(hours=24)
+
+            if mod_time >= before:
+                # If file was modified within 24 hrs, copy to dst folder. Using copy2 to keep timestamps intact
+                shutil.copy2(src_fname, dst)
     
 
     # Closes app
