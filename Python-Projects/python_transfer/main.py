@@ -10,6 +10,7 @@ import os
 import datetime
 import tkinter
 from tkinter import *
+from tkinter import filedialog
 
 
 # Defining Class
@@ -27,16 +28,16 @@ class ParentWindow(Frame):
         self.varSource = StringVar()
         self.varDestination = StringVar()
 
-        self.lblSource = Label(self.master, text='Source Folder: ', font=('Arial', 14))
-        self.lblSource.grid(row=0,column=0, padx=(30,0), pady=(30,0))
+        self.btnSource = Button(self.master, text='Source Folder', font=('Arial', 14), command=self.browse_src)
+        self.btnSource.grid(row=0,column=0, padx=(30,0), pady=(30,0))
 
-        self.lblDestination = Label(self.master, text='Destination Folder: ', font=('Arial', 14))
-        self.lblDestination.grid(row=1,column=0, padx=(30,0), pady=(30,0))
+        self.btnDestination = Button(self.master, text='Destination Folder', font=('Arial', 14), command=self.browse_dst)
+        self.btnDestination.grid(row=1,column=0, padx=(30,0), pady=(30,0))
 
-        self.txtSource = Entry(self.master, text=self.varSource, font=('Arial', 14))
+        self.txtSource = Entry(self.master, text='', font=('Arial', 14))
         self.txtSource.grid(row=0, column=1, padx=(30,0), pady=(30,0))
 
-        self.txtDestination = Entry(self.master, text=self.varDestination, font=('Arial', 14))
+        self.txtDestination = Entry(self.master, text='', font=('Arial', 14))
         self.txtDestination.grid(row=1, column=1, padx=(30,0), pady=(30,0))
 
         self.btnSubmit = Button(self.master, text='Transfer', width=12, height=2, command=lambda:self.last_mod_time(self))
@@ -45,11 +46,25 @@ class ParentWindow(Frame):
         self.btnCancel = Button(self.master, text='Cancel', width=12, height=2, command=self.cancel)
         self.btnCancel.grid(row=2, column=1, padx=(0,120), pady=(30,0), sticky=NE)
 
-           
+    def browse_src(self):
+        # Allows user to select a source dir from a popup window
+        dir_select = filedialog.askdirectory(initialdir = "/")
+        # This modifies the text bar
+        self.txtSource.delete(0,END)
+        self.txtSource.insert(0,dir_select)
+
+    def browse_dst(self):
+        # Allows user to select a destination dir from a popup window
+        dir_select = filedialog.askdirectory(initialdir = "/")
+        # This modifies the text bar
+        self.txtDestination.delete(0,END)
+        self.txtDestination.insert(0,dir_select)
+        
+  
 
     # Checks to make sure files were recently modified   
     def last_mod_time(fname,self):
-        # Gets user entered file paths
+        # This pulls the paths from the entry box
         src = self.txtSource.get()
         dst = self.txtDestination.get()
         # Gets file timestamps
