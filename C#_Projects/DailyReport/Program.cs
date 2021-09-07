@@ -11,7 +11,7 @@ namespace DailyReport
         static void Main(string[] args)
         {
             // Welcome Message
-            Console.WriteLine("Welcome to The Tech Academy\nDaily Report");
+            Console.WriteLine("Welcome to The Tech Academy\n\nDaily Report");
 
             // Asks user's name and displays a greeting
             Console.WriteLine("What is your name?");
