@@ -15,20 +15,17 @@ namespace CarInsurance
 
             // Applicant Questions
             Console.WriteLine("What is your age?");
-            string ageInput = Console.ReadLine();
-            int Age = Convert.ToInt32(ageInput);
+            int Age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Have you ever had a DUI? If so, how many?");
-            string duiInput = Console.ReadLine();
-            int DUI = Convert.ToInt32(duiInput);
+            Console.WriteLine("Have you ever had a DUI? (Please type true or false)");
+            bool DUI = Convert.ToBoolean(Console.ReadLine());
 
-            Console.WriteLine("Have you had any speeding tickets? If so, how many?");
-            string ticketInput = Console.ReadLine();
-            int Ticket = Convert.ToInt32(ticketInput);
+            Console.WriteLine("How many speeding tickets have you had?");
+            int Ticket = Convert.ToInt32(Console.ReadLine());
 
             // Applicant Qualification
             bool oldEnough = Age >= 15;
-            bool noDUI = DUI == 0;
+            bool noDUI = DUI == false;
             bool noTicket = Ticket <= 3;
 
             bool Qualify = oldEnough && noDUI && noTicket;
