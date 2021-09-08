@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\bin\Debug\IncomeProgram.exe.config
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\bin\Debug\IncomeProgram.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\bin\Debug\IncomeProgram.pdb
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\obj\Debug\IncomeProgram.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\obj\Debug\IncomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\obj\Debug\IncomeProgram.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\IncomeProgram\obj\Debug\IncomeProgram.pdb
