@@ -29,7 +29,7 @@ namespace CarInsurance
             // Applicant Qualification
             bool oldEnough = Age >= 15;
             bool noDUI = DUI == 0;
-            bool noTicket = Ticket == 0;
+            bool noTicket = Ticket <= 3;
 
             bool Qualify = oldEnough && noDUI && noTicket;
             Console.WriteLine("Qualified? " + Qualify);
