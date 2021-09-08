@@ -17,7 +17,7 @@ namespace IncomeProgram
             Console.WriteLine("Person 1");
             Console.WriteLine("How many hours do you work?");
             string hoursWorkedInput1 = Console.ReadLine();
-            // Converts user input to byte. Using decimal to make transferring data easier.
+            // Converts user input to decimal. Using decimal to make transferring data easier.
             decimal hoursWorked1 = Convert.ToDecimal(hoursWorkedInput1);
             Console.WriteLine("What is your hourly rate?");
             string hourlyRateInput1 = Console.ReadLine();
@@ -28,7 +28,7 @@ namespace IncomeProgram
             Console.WriteLine("Person 2");
             Console.WriteLine("How many hours do you work?");
             string hoursWorkedInput2 = Console.ReadLine();
-            // Converts user input to byte
+            // Converts user input to decimal
             decimal hoursWorked2 = Convert.ToDecimal(hoursWorkedInput2);
             Console.WriteLine("What is your hourly rate?");
             string hourlyRateInput2 = Console.ReadLine();
