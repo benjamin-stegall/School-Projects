@@ -36,8 +36,8 @@ namespace IncomeProgram
             decimal hourlyRate2 = Convert.ToDecimal(hourlyRateInput2);
 
             // Annual Salaries
-            decimal annualSalary1 = (hourlyRate1 * hoursWorked1) * 365;
-            decimal annualSalary2 = (hourlyRate2 * hoursWorked2) * 365;
+            decimal annualSalary1 = (hourlyRate1 * hoursWorked1) * 261;
+            decimal annualSalary2 = (hourlyRate2 * hoursWorked2) * 261;
             Console.WriteLine("Person 1 makes " + annualSalary1 + " a year.");
             Console.WriteLine("Person 2 makes " + annualSalary2 + " a year.");
 
