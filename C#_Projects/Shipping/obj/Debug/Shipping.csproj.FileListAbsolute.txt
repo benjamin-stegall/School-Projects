@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\bin\Debug\Shipping.exe.config
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\bin\Debug\Shipping.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\bin\Debug\Shipping.pdb
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\obj\Debug\Shipping.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\obj\Debug\Shipping.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\Shipping\obj\Debug\Shipping.pdb
