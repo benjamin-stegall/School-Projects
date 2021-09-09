@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\bin\Debug\BooleanLoop.exe.config
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\bin\Debug\BooleanLoop.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\bin\Debug\BooleanLoop.pdb
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\obj\Debug\BooleanLoop.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\obj\Debug\BooleanLoop.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\obj\Debug\BooleanLoop.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\BooleanLoop\obj\Debug\BooleanLoop.pdb
