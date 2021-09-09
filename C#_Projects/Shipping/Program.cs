@@ -36,7 +36,7 @@ namespace Shipping
                 decimal packageDimension = (packageWidth * packageHeight * packageLength);
 
                 // This checks if item is too big
-                if (packageDimension > 50)
+                if (packageWidth + packageHeight + packageLength > 50)
                 {
                     Console.WriteLine("Your package is too big!");
                 }
