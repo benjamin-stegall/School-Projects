@@ -24,7 +24,7 @@ namespace CarInsurance
             int Ticket = Convert.ToInt32(Console.ReadLine());
 
             // Applicant Qualification
-            bool oldEnough = Age >= 15;
+            bool oldEnough = Age > 15;
             bool noDUI = DUI == false;
             bool noTicket = Ticket <= 3;
 
