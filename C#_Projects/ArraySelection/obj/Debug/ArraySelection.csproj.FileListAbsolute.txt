@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\bin\Debug\ArraySelection.exe.config
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\bin\Debug\ArraySelection.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\bin\Debug\ArraySelection.pdb
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\obj\Debug\ArraySelection.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\obj\Debug\ArraySelection.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\obj\Debug\ArraySelection.exe
+C:\Users\Wohn Jick\Desktop\basic_C#\ArraySelection\obj\Debug\ArraySelection.pdb
