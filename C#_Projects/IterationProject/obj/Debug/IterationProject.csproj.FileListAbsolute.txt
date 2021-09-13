@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\project\IterationProject\bin\Debug\IterationProject.exe.config
+C:\Users\Wohn Jick\Desktop\project\IterationProject\bin\Debug\IterationProject.exe
+C:\Users\Wohn Jick\Desktop\project\IterationProject\bin\Debug\IterationProject.pdb
+C:\Users\Wohn Jick\Desktop\project\IterationProject\obj\Debug\IterationProject.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\project\IterationProject\obj\Debug\IterationProject.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\project\IterationProject\obj\Debug\IterationProject.exe
+C:\Users\Wohn Jick\Desktop\project\IterationProject\obj\Debug\IterationProject.pdb
