@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\project\Methods\bin\Debug\Methods.exe.config
+C:\Users\Wohn Jick\Desktop\project\Methods\bin\Debug\Methods.exe
+C:\Users\Wohn Jick\Desktop\project\Methods\bin\Debug\Methods.pdb
+C:\Users\Wohn Jick\Desktop\project\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\project\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\project\Methods\obj\Debug\Methods.exe
+C:\Users\Wohn Jick\Desktop\project\Methods\obj\Debug\Methods.pdb
