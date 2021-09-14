@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\bin\Debug\MethodMultInput.exe.config
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\bin\Debug\MethodMultInput.exe
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\bin\Debug\MethodMultInput.pdb
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\obj\Debug\MethodMultInput.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\obj\Debug\MethodMultInput.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\obj\Debug\MethodMultInput.exe
+C:\Users\Wohn Jick\Desktop\project\MethodMultInput\obj\Debug\MethodMultInput.pdb
