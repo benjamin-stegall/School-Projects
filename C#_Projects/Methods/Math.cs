@@ -8,6 +8,19 @@ namespace Methods
 {
     public class Math
     {
-        public int Number { get; set; }
+        public static int Add(int input)
+        {
+            return input + 2;
+        }
+
+        public static int Subtract(int input)
+        {
+            return input - 2;
+        }
+
+        public static int Multiply(int input)
+        {
+            return input * 2;
+        }
     }
 }
