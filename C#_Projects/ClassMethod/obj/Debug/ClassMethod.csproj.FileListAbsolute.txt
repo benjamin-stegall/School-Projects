@@ -1,0 +1,7 @@
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\bin\Debug\ClassMethod.exe.config
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\bin\Debug\ClassMethod.exe
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\bin\Debug\ClassMethod.pdb
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\obj\Debug\ClassMethod.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\obj\Debug\ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\obj\Debug\ClassMethod.exe
+C:\Users\Wohn Jick\Desktop\project\ClassMethod\obj\Debug\ClassMethod.pdb
