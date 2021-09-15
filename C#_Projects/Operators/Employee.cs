@@ -28,7 +28,7 @@ namespace Operators
                 return false;
         }
 
-        // This allows us to compare the properties as opposed to whole object
+        // This allows us to compare the properties as opposed to the object itself
         // By default, c# will return false as seperate objects are different
         public override bool Equals(object obj)
         {
