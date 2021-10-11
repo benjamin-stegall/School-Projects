@@ -8,7 +8,7 @@
 ###### A basic console application utilizing arrays.
 
 ## BooleanLoop
-###### A basic console application utilizing loops..
+###### A basic console text-adventure game experimenting with loops.
 
 ## CarInsurance
 ###### A basic console application experimenting with bool data types.
