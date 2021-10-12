@@ -4,10 +4,10 @@
 ## C#_Projects
 ###### Various C# projects
 
-## C#_Projects
+## HTML-CSS-Projects
 ###### Various HTML and CSS projects
 
-## C#_Projects
+## JavaScript_Projects
 ###### Various JS projects
 
 ## Python_Projects
