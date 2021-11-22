@@ -64,5 +64,8 @@
 ## Methods
 ###### A basic console application working with methods
 
+##RandomQuotes
+###### This wasn't a school project or assignment. Rather it was a very simple application I made for personal use to be run with windows task manager. It just pulls from a short list of quotes and displays them to the user.
+
 ## Shipping
 ###### A basic console application that takes input to determine if a package can be shipped and, if it can, its cost.
