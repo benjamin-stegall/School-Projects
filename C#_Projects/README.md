@@ -64,7 +64,7 @@
 ## Methods
 ###### A basic console application working with methods
 
-##RandomQuotes
+## RandomQuotes
 ###### This wasn't a school project or assignment. Rather it was a very simple application I made for personal use to be run with windows task manager. It just pulls from a short list of quotes and displays them to the user.
 
 ## Shipping
