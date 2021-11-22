@@ -1,0 +1,16 @@
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\RandomQuotes.exe
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\RandomQuotes.deps.json
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\RandomQuotes.runtimeconfig.json
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\RandomQuotes.runtimeconfig.dev.json
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\RandomQuotes.dll
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\ref\RandomQuotes.dll
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\bin\Debug\net5.0\RandomQuotes.pdb
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.csproj.AssemblyReference.cache
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.AssemblyInfoInputs.cache
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.AssemblyInfo.cs
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.csproj.CoreCompileInputs.cache
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.dll
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\ref\RandomQuotes.dll
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.pdb
+C:\Users\Wohn Jick\Desktop\RandomQuotes\RandomQuotes\obj\Debug\net5.0\RandomQuotes.genruntimeconfig.cache
